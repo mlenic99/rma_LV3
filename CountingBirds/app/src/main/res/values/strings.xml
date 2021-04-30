@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CountingBirds</string>
+    <string name="btn_reset">RESET</string>
+</resources>
